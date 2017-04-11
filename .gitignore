@@ -1,0 +1,16 @@
+# R
+.Rhistory
+
+# Session data
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user
+
+# Other files
+.directory
+*.pdf
+
+
+
